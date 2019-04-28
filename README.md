@@ -1,6 +1,6 @@
 # Fabric Community Mod, Maybe
 
-<img src="https://drive.google.com/uc?export=view&id=1Qdb4j2HLI_SwDVvC1LluUFTAZ3UYAR5i" height="400" />
+<img src="https://i.imgur.com/WtGipgm.png" />
 
 This is a Fabric mod made by everyone. You, too, can join the chaos.
 
