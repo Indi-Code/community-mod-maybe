@@ -28,6 +28,7 @@ The rules can be modified only by moderators.
 
 Moderators list:
 - Shnupbups
+- Draylar
 - raphydaphy
 - Ibby
 - Juuxel
