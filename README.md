@@ -11,9 +11,11 @@ Rules: (subject to change)
 - Each person gets **ONE** pull request containing their changes. This rule is somewhat flexible, provided good reason.
 - Each person can only create **ONE** java file, be it a class, enum, interface or what have you.
 - Each person can, however, edit *any* existing java files, provided they do **not** change *more than half* of the existing lines, or add enough lines thus that the line count becomes *more than twice that it was prior*.
-- Each person can only create **ONE** block texture *and* **ONE** item texture (each limited to 256x MAXIMUM). This is in addition to the java files. Other types of textures, go wild I guess.
-- Changing existing textures will be discouraged, but allowed provided good reason.
-- Models, tags, recipes and such can be added in any quantity.
+- Each person can only create **ONE** block texture *and* **ONE** item texture (each limited to 256x MAXIMUM).
+- Each person can only create **ONE** of each of the other types of texture, that is guis, mobs, effects, etc. (each limited to 1024x MAXIMUM)
+- Each person can add **ONE** sound effect (audio file shorter than 10 seconds) *and* **ONE** music track (audio file longer than 10 seconds, maximum 10 minutes)
+- Changing existing assets will be discouraged, but allowed provided good reason.
+- Any and all .json files can be added in any quantity.
 - No viruses, malware, spyware, adware, ransomware or any malicious code. Duh. This includes any code that runs outside code that could potentially meet any of these definitions. 
 - No dependencies other than Fabric API.
 - Attempts to circumvent these rules through means such as creating one massive class that does everything, overuse of internal classes, or making major changes to a class all in one line, will be moderated. (yes, this is a vague rule. it's subject to moderator's discretion)
