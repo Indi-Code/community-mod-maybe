@@ -6,8 +6,8 @@ This is a Fabric mod made by everyone. You, too, can join the chaos.
 
 Rules: (subject to change)
 - No direct commits to the `src` directory, even if you have write access. Use pull requests.
-- No commenting your code. At all.
-- Keep Pull Requests and commits as vague as possible.
+- No commenting your code. At all. You have to figure out what other people's code means!
+- Keep Pull Requests and commits as vague as possible. Again, others need to figure out your code.
 - Each person gets **ONE** pull request containing their changes. This rule is somewhat flexible, provided good reason.
 - Each person can only create **ONE** java file, be it a class, enum, interface or what have you.
 - Each person can, however, edit *any* existing java files, provided they do **not** change *more than half* of the existing lines, or add enough lines thus that the line count becomes *more than twice that it was prior*.
