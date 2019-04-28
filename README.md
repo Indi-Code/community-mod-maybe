@@ -17,7 +17,7 @@ Rules: (subject to change)
 - Changing existing assets will be discouraged, but allowed provided good reason.
 - Any and all .json files can be added in any quantity.
 - No viruses, malware, spyware, adware, ransomware or any malicious code. Duh. This includes any code that runs outside code that could potentially meet any of these definitions. 
-- No dependencies other than Fabric API.
+- No dependencies other than Fabric API, Fabric Loader and Minecraft.
 - Attempts to circumvent these rules through means such as creating one massive class that does everything, overuse of internal classes, or making major changes to a class all in one line, will be moderated. (yes, this is a vague rule. it's subject to moderator's discretion)
 - Moderators reserve the right to reject PRs.
 
