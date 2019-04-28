@@ -32,5 +32,7 @@ Moderators list:
 - Ibby
 - Juuxel
 - factorsofx
+- shedaniel
+- Valoeghese
 
 If you wish to be a moderator, ping Shnupbups on the Fabric discord server.
