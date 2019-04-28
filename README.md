@@ -20,6 +20,7 @@ Rules: (subject to change)
 - No dependencies other than Fabric API, Fabric Loader and Minecraft.
 - Attempts to circumvent these rules through means such as creating one massive class that does everything, overuse of internal classes, or making major changes to a class all in one line, will be moderated. (yes, this is a vague rule. it's subject to moderator's discretion)
 - Moderators reserve the right to reject PRs.
+- asie, no adding stuff to Fabric API or Loader specifically for this mod.
 
 If any of these rules need further clarification, if you feel any of them are too strict or lenient, or if you feel more should be added, please let us know!
 
