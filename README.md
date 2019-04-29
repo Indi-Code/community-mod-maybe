@@ -18,8 +18,8 @@ Rules: (subject to change)
 11. Any and all .json files can be added in any quantity.
 12. No viruses, malware, spyware, adware, ransomware or any malicious code. Duh. This includes any code that runs outside code that could potentially meet any of these definitions. 
 13. No dependencies other than Fabric API, Fabric Loader and Minecraft.
-14. Attempts to circumvent these rules through means such as creating one massive class that does everything, overuse of internal classes, or making major changes to a class all in one line, will be moderated. (yes, this is a vague rule. it's subject to moderator's discretion)
-15. Moderators reserve the right to reject PRs.
+14. Attempts to circumvent these rules through means *including, but **not** limited to,* creating one massive class that does everything, creating a large number of classes within a single file, or making major changes to a class all in one line, will be moderated. (yes, this is a vague rule. it's subject to moderator's discretion)
+15. Moderators reserve the right to reject or revert PRs at any time.
 16. No adding stuff to Fabric API or Loader specifically for this mod. (yes, this is an actual rule ***asie***)
 
 If any of these rules need further clarification, if you feel any of them are too strict or lenient, or if you feel more should be added, please let us know!
